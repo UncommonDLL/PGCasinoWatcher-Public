@@ -50,7 +50,7 @@ That's it. The app auto-detects your ChatLogs folder. If detection fails (e.g., 
 Test without submitting to the intake endpoint: python src/casino_watcher_public.py --dry-run
 
 ## Config reference
-
+* Config is preloaded with Laeth Server Fight Logs *
 | Field | Default | Description |
 |-------|---------|-------------|
 | `chatlog_dir` | `""` (auto-detect) | Optional override path to ChatLogs directory |
